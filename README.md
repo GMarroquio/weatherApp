@@ -28,7 +28,7 @@ Dentro do arquivo `credentials.json` na pasta raiz cole a key do [openweather](h
 
 ```json
 {
-	appid: "your-app-id"
+	"appid": "your-app-id"
 }
 ```
 
